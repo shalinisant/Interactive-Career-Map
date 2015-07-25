@@ -31,9 +31,6 @@ function init(){
     var json = {
         id: "abc",
         name: "Economics Degree",
-		//data: { 
-			//relation: '<p><span style="font-size: 14px;">Click on a career category to learn more about specifc careers in the field, and requirements for those careers after a BIE degree.</span></p>'
-		//},
         children: [{
             id: "k306208_1",
             name: "Law",
@@ -204,9 +201,9 @@ function init(){
                 children: []
             }]
         }, ],
-        data: {
-            relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
-        }
+        data: { 
+			relation: '<p style="margin-top:200px"></p><p><span style="font-size: 14px;">Click on a career category to learn more about specific careers in the field, and requirements for those careers after a BIE degree.</span></p>'
+		}
     };
     //end
     
@@ -299,5 +296,5 @@ function init(){
     });
     //end
     //append information about the root relations in the right column
-    //$jit.id('inner-details').innerHTML = rgraph.graph.getNode(rgraph.root).data.relation;
+    $jit.id('inner-details').innerHTML = rgraph.graph.getNode(rgraph.root).data.relation;
 }
