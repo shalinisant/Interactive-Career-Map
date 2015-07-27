@@ -175,7 +175,7 @@ function init(){
             }]
         }, {
             id: "a236585_30",
-            name: "Category 7",
+            name: "Research",
             data: {
                 relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
             },
