@@ -65,7 +65,7 @@ function init(){
             name: "International Trade",
             data: {
                 relation: '<p><span style="font-size:14px;"><strong>Education:</strong></span></p>' +
-'<ul><li><span style="font-size:12px;">Depending on the career, a Master&#39;s Degee may or may not be required</span></li></ul>'
+'<ul><li><span style="font-size:12px;">Depending on the career, a Master&#39;s Degee may or may not be required</span></li></ul>' +
 '<p><strong><span style="font-size:14px;">Experience</span></strong></p>' +
 '<ul><li><span style="font-size:12px;">A strong sense of curiosity about other countries and cultures is necessary in order to develop and maintain relationships with potential business partners</span></li></ul>' +
 '<p><strong><span style="font-size:14px;">Potential Jobs:</span></strong></p>' +
