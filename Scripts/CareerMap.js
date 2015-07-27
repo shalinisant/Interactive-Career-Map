@@ -35,13 +35,15 @@ function init(){
             id: "k306208_1",
             name: "Law",
             data: {
-               relation: '<p><span style="font-size:14px;"><strong>Education: </strong></span></p><ul><li><span style="font-size:12px;">Law School after Bachelor&rsquo;s degree, which requires passing the LSAT</span></li>' +
-			   '<li><span style="font-size:12px;">Pass Provincial Bar exam after Law degree in order to practice law in a specific province/territory</span></li>' +
+               relation: '<p><span style="font-size:14px;"><strong>Education: </strong></span></p>' +
+'<ul><li><span style="font-size:12px;">Law School after Bachelor&rsquo;s degree, which requires passing the LSAT</span></li>' +
+'<li><span style="font-size:12px;">Pass Provincial Bar exam after Law degree in order to practice law in a specific province/territory</span></li>' +
 '<li><span style="font-size:12px;">Articling: working under supervision of licensed and qualified lawyer for 10 months, before being licensed to practice law</span></li></ul>' +
 '<p><span style="font-size:14px;"><strong>Experience:</strong></span></p>' +
-'<ul><li><span style="font-size:12px;">Reading, Speaking and Argumentation Skills should be developed when doing undergrad</span></li></ul>'
-				
-            },
+'<ul><li><span style="font-size:12px;">Reading, Speaking and Argumentation Skills should be developed when doing undergrad</span></li></ul>' +
+'<p><strong><span style="font-size:14px;">Potential Careers:</span></strong></p><ul>' +
+'<li><span style="font-size:12px;">Lawyer</span></li></ul>'
+			},
             children: [{
                 id: "a84_2",
                 name: "Lawyer",
@@ -63,13 +65,17 @@ function init(){
             name: "International Trade",
             data: {
                 relation: '<p><span style="font-size:14px;"><strong>Education:</strong></span></p>' +
-'<ul><li><span style="font-size:12px;">Depending on the career, a Master&#39;s Degee may or may not be required</span></li></ul>'
+'<ul><li><span style="font-size:12px;">Depending on the career, a Master&#39;s Degee may or may not be required</span></li></ul>' +
+'<p><strong><span style="font-size:14px;">Experience</span></strong></p>' +
+'<ul><li>A strong sense of curiosity about other countries and cultures is necessary in order to develop and maintain relationships with potential business partners</li></ul>' +
+'<p><strong><span style="font-size:14px;">Potential Careers:</span></strong></p><ul><li>Trade Commissioner</li><li>Import Agent</li></ul>'
             },
             children: [{
                 id: "a964_4",
                 name: "Trade Commissioner",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size:14px;"><strong>Job Description:</strong></span>' +
+					'<span style="font-size:12px;"> Trade commissioners build strategic relationships with international business partners, and help domestic firms access connections to the international market</span></p>'
                 },
                 children: []
             },
