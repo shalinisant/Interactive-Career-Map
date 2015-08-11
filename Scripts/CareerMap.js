@@ -199,7 +199,7 @@ function init(){
             },
             children: [{
                 id: "a1111_31",
-                name: "Job 1",
+                name: "Economic Policy Analyst",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
