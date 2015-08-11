@@ -30,7 +30,7 @@ function init(){
     //init data
     var json = {
         id: "abc",
-        name: "Economics Degree",
+        name: "International Economics Degree",
         children: [{
             id: "k306208_1",
             name: "Law",
@@ -54,7 +54,7 @@ function init(){
             },
 			{
                 id: "a14581_7",
-                name: "Job 2",
+                name: "Paralegal",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -83,9 +83,17 @@ function init(){
             },
 			{
                 id: "a1756_6",
-                name: "Import Agent",
+                name: "International Trade Specialist",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size:14px;"><strong>Job Description:</strong></span> <span style="font-size:12px;">International trade specialists are responsible for analyzing and evaluating information pertaining to foreign trade.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Education: </strong></span><span style="font-size:12px;">A Master&rsquo;s degree will help students gain real-world experience, as 3-5 years is necessary to be eligible for most entry-level positions.</span></p>' +
+'<ul><li><span style="font-size:12px;">Strong problem solving</span></li><li><span style="font-size:12px;">Written and verbal communication</span></li>' +
+'<li><span style="font-size:12px;">Ability to multitask and prioritize</span></li><li><span style="font-size:12px;">Attention to detail</span></li>' +
+'<li><span style="font-size:12px;">Organizational skills</span></li><li><span style="font-size:12px;">Customer service skills</span></li>' +
+'<li><span style="font-size:12px;">Certification is not necessary, but may increase range of job opportunities</span></li></ul>' +
+'<p style="margin-left:1.0in;"><span style="font-size:12px;">o&nbsp;&nbsp; Ex. Certified International Trade Professional Credential (CITP)</span></p>' +
+'<p><span style="font-size:14px;"><strong>Salary: </strong></span><span style="font-size:12px;">The median salary is about $80,000 to 90,000 per year.</span></p>'
+
                 },
                 children: []
             }]
@@ -93,7 +101,10 @@ function init(){
             id: "a236797_5",
             name: "Government",
             data: {
-                relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                relation: '<p><span style="font-size:14px;"><strong>Education: </strong></span><span style="font-size:12px;">Generally a Bachelor&#39;s Degree is sufficient</span></p>' +
+				'<p><span style="font-size:14px;"><strong>Experience:</strong></span></p>' +
+'<ul><li><span style="font-size:12px;">Some entry-level jobs may require at least 3 years of prior related experience</span></li>' +
+'<li><span style="font-size:12px;">In Canada, students wishing to experience firsthand a career in government can apply for the Federal Student Work Experience Program (FSWEP)</span></li></ul>'
             },
             children: [{
                 id: "a50188_8",
@@ -118,14 +129,21 @@ function init(){
             },
             children: [{
                 id: "a1756_13",
-                name: "Job 1",
+                name: "Commercial Banking",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a2192_39",
+                name: "Credit Analyst",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
                 children: []
+            }]
             }, {
                 id: "a14581_14",
-                name: "Job 2",
+                name: "Investment Banking",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -196,7 +214,7 @@ function init(){
             }]
         }, {
             id: "a236594_38",
-            name: "Category 8",
+            name: "Academic",
             data: {
                 relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
             },
@@ -219,7 +237,7 @@ function init(){
     var rgraph = new $jit.RGraph({
         //Where to append the visualization
         injectInto: 'infovis',
-		levelDistance: 155,
+		levelDistance: 135,
         //Optional: create a background canvas that plots
         //concentric circles.
         background: {

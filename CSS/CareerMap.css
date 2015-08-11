@@ -408,7 +408,7 @@
 	text-decoration:none;
 	text-shadow:0px 0px 0px #2f6627;
 }
-#aa1756_19:hover {
+#a1756_19:hover {
 	background-color:#5cbf2a;
 }
 #a1756_19:active {
@@ -550,6 +550,29 @@
 	background-color:#5cbf2a;
 }
 #a2092_39:active {
+	position:relative;
+	top:1px;
+}
+
+#a2192_39{
+	background-color:#990099;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	border:1px solid #990099;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:10px 5px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+}
+#a2192_39:hover {
+	background-color:#5cbf2a;
+}
+#a2192_39:active {
 	position:relative;
 	top:1px;
 }
