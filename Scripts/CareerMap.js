@@ -131,7 +131,13 @@ function init(){
                 id: "a1756_13",
                 name: "Commercial Banking",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size:14px;"><strong>Education:</strong></span> <span style="font-size:12px;">Many high-ranking people who work in the commercial banking sector have an MBA, although it is not mandatory.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Skills/Experience:</strong></span></p>' +
+'<ul><li><span style="font-size:12px;">Broad understanding of business and people skills</span></li>' +
+'<li><span style="font-size:12px;">Accounting and writing skills are crucial for documenting loans and justifying credit analyses</span></li>' +
+'<li><span style="font-size:12px;">One&#39;s work ethic more important than high GPA,</span></li>' 
+'<li><span style="font-size:12px;">Need to be detail oriented, unafraid to sell and conscientious</span></li>' +
+'<li><span style="font-size:12px;">Excellent communication and sales skills</span></li></ul>'
                 },
                 children: [{
                 id: "a2192_39",
