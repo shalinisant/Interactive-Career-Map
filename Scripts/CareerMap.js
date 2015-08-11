@@ -135,7 +135,7 @@ function init(){
 '<p><span style="font-size:14px;"><strong>Skills/Experience:</strong></span></p>' +
 '<ul><li><span style="font-size:12px;">Broad understanding of business and people skills</span></li>' +
 '<li><span style="font-size:12px;">Accounting and writing skills are crucial for documenting loans and justifying credit analyses</span></li>' +
-'<li><span style="font-size:12px;">One&#39;s work ethic more important than high GPA,</span></li>' 
+'<li><span style="font-size:12px;">One&#39;s work ethic more important than high GPA,</span></li>' +
 '<li><span style="font-size:12px;">Need to be detail oriented, unafraid to sell and conscientious</span></li>' +
 '<li><span style="font-size:12px;">Excellent communication and sales skills</span></li></ul>'
                 },
