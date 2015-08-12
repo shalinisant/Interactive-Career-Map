@@ -82,7 +82,7 @@
 	color:#ffffff;
 	font-family:Arial;
 	font-size:14px;
-	padding:10px 5px;
+	padding:10px 1px;
 	text-decoration:none;
 	text-shadow:0px 0px 0px #2f6627;
 }
@@ -573,6 +573,30 @@
 	background-color:#5cbf2a;
 }
 #a2192_39:active {
+	position:relative;
+	top:1px;
+}
+
+
+#a14583_7 {
+	background-color:#44c767;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:15px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+#a14583_7:hover {
+	background-color:#5cbf2a;
+}
+#a14583_7:active {
 	position:relative;
 	top:1px;
 }
