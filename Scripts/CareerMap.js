@@ -50,8 +50,15 @@ function init(){
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
+                children: [{
+                id: "a14583_7",
+                name: "Canadian Law",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
                 children: []
-            },
+            }]
+        },
 			{
                 id: "a14581_7",
                 name: "Paralegal",
@@ -243,7 +250,7 @@ function init(){
     var rgraph = new $jit.RGraph({
         //Where to append the visualization
         injectInto: 'infovis',
-		levelDistance: 125,
+		levelDistance: 110,
         //Optional: create a background canvas that plots
         //concentric circles.
         background: {
@@ -294,7 +301,7 @@ function init(){
             var style = domElement.style;
             style.display = '';
             style.cursor = 'pointer';
-			style.width = "100px"
+			style.width = "90px"
 		
 
             if (node._depth <= 1) {
