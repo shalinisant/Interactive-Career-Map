@@ -57,6 +57,14 @@ function init(){
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
                 children: []
+            },
+			{
+                id: "a16583_7",
+                name: "International Law",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
             }]
         },
 			{
@@ -115,7 +123,7 @@ function init(){
             },
             children: [{
                 id: "a50188_8",
-                name: "Job 1",
+                name: "Foreign Services Officer",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -233,7 +241,7 @@ function init(){
             },
             children: [{
                 id: "a2092_39",
-                name: "Job 1",
+                name: "Professor",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -250,7 +258,7 @@ function init(){
     var rgraph = new $jit.RGraph({
         //Where to append the visualization
         injectInto: 'infovis',
-		levelDistance: 110,
+		levelDistance: 130,
         //Optional: create a background canvas that plots
         //concentric circles.
         background: {
