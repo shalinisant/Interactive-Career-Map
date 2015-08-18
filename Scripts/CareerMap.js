@@ -258,7 +258,7 @@ function init(){
     var rgraph = new $jit.RGraph({
         //Where to append the visualization
         injectInto: 'infovis',
-		levelDistance: 130,
+		levelDistance: 140,
         //Optional: create a background canvas that plots
         //concentric circles.
         background: {
