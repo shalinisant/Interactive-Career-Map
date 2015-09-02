@@ -213,13 +213,16 @@ function init(){
             id: "a236585_30",
             name: "Research",
             data: {
-                relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                relation: '<p><strong><span style="font-size:14px;">What further education is required for a career in this field?</span></strong></p>' +
+'<p>&nbsp;</p>' +
+'<p><span style="font-size:12px;">A master&rsquo;s degree used to be an asset for careers in this field, but is now required for many positions with high levels of responsibility.</span></p>'
             },
             children: [{
                 id: "a1111_31",
                 name: "Economic Policy Analyst",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size: 14px;"><p><span style="font-size:14px;"><strong>Job Description: </strong></span><span style="font-size:12px;">Economic Policy Analysts conduct research, and develop models to help explain economic trends and pattern. They use this information to advise on a variety of matters, including finance, fiscal and monetary policy, international trade and industrial markets.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Education:</strong> </span><span style="font-size:12px;">A master&rsquo;s degree with at least a concentration in economics will be required for positions with high responsibility.&nbsp;</span></p></span></p>'
                 },
                 children: []
             }, {
@@ -244,7 +247,22 @@ function init(){
                 },
                 children: []
             }]
-        }, ],
+        },
+{
+            id: "a236194_38",
+            name: "Consulting",
+            data: {
+                relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+            },
+            children: [{
+                id: "a2092_29",
+                name: "Job 1",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }]
+        }		],
         data: { 
 			relation: '<p style="margin-top:200px"></p><p><span style="font-size: 14px;">Click on a career category to learn more about specific careers in the field, and requirements for those careers after a BIE degree.</span></p>'
 		}
