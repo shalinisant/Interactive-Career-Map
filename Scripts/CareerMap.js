@@ -98,7 +98,7 @@ function init(){
                 name: "International Trade Specialist",
                 data: {
                     relation: '<p><span style="font-size:14px;"><strong>Job Description:</strong></span> <span style="font-size:12px;">International trade specialists are responsible for analyzing and evaluating information pertaining to foreign trade.</span></p>' +
-'<p><span style="font-size:14px;"><strong>Education: </strong></span><span style="font-size:12px;">A Master&rsquo;s degree will help students gain real-world experience, as 3-5 years is necessary to be eligible for most entry-level positions.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Education/Experience: </strong></span><span style="font-size:12px;">A Master&rsquo;s degree will help students gain real-world experience, as 3-5 years is necessary to be eligible for most entry-level positions.</span></p>' +
 '<ul><li><span style="font-size:12px;">Strong problem solving</span></li><li><span style="font-size:12px;">Written and verbal communication</span></li>' +
 '<li><span style="font-size:12px;">Ability to multitask and prioritize</span></li><li><span style="font-size:12px;">Attention to detail</span></li>' +
 '<li><span style="font-size:12px;">Organizational skills</span></li><li><span style="font-size:12px;">Customer service skills</span></li>' +
@@ -165,7 +165,14 @@ function init(){
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
+                children: [{
+                id: "a1756_69",
+                name: "Investment Banking Analyst",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
                 children: []
+            }]
             }]
         }, {
             id: "a131161_18",
@@ -175,7 +182,7 @@ function init(){
             },
             children: [{
                 id: "a1756_19",
-                name: "Job 1",
+                name: "Economic Development Officer",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -290,11 +297,11 @@ function init(){
         },
         //Set Node and Edge styles.
         Node: {
-            color: '#ddeeff'
+            color: '#000000'
         },
         
         Edge: {
-          color: '#C17878',
+          color: '#666666',
           lineWidth:3.5
         },
 
