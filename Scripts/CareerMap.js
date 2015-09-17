@@ -297,7 +297,7 @@ function init(){
         },
         //Set Node and Edge styles.
         Node: {
-            color: '#000000'
+            color: '#ddeeff'
         },
         
         Edge: {
