@@ -141,7 +141,7 @@ function init(){
             },
             children: [{
                 id: "a1756_13",
-                name: "Commercial Banking",
+                name: "Corporate or Institutional",
                 data: {
                     relation: '<p><span style="font-size:14px;"><strong>Education:</strong></span> <span style="font-size:12px;">Many high-ranking people who work in the commercial banking sector have an MBA, although it is not mandatory.</span></p>' +
 '<p><span style="font-size:14px;"><strong>Skills/Experience:</strong></span></p>' +
@@ -161,12 +161,40 @@ function init(){
             }]
             }, {
                 id: "a14581_14",
-                name: "Investment Banking",
+                name: "Retail",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
                 children: [{
                 id: "a1756_69",
+                name: "Investment Banking Analyst",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }]
+            }, {
+                id: "c14581_14",
+                name: "Back Office",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1726_69",
+                name: "Investment Banking Analyst",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }]
+            }, {
+                id: "c14581_18",
+                name: "Middle Office",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1706_69",
                 name: "Investment Banking Analyst",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
@@ -242,17 +270,38 @@ function init(){
             }]
         }, {
             id: "a236594_38",
-            name: "Academic",
+            name: "Academia",
             data: {
                 relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
             },
             children: [{
-                id: "a2092_39",
-                name: "Professor",
+                id: "c14581_136",
+                name: "Research",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1706_198",
+                name: "Investment Banking Analyst",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
                 children: []
+            }]
+            }, {
+                id: "c14581_139",
+                name: "Universities",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1706_199",
+                name: "Investment Banking Analyst",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }]
             }]
         },
 {
@@ -262,12 +311,58 @@ function init(){
                 relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
             },
             children: [{
-                id: "a2092_29",
-                name: "Job 1",
+                id: "k24581_135",
+                name: "Marketing",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1706_693",
+                name: "Marketing Consultant",
+                data: {
+                    relation: '<p>&nbsp;</p><p><span style="font-size:14px;"><strong>Job Description: </strong></span><span style="font-size:12px;">Marketing consultants help businesses market their products effectively.</span></p>' +
+'<p><span style="font-size:14px;"><b>What further education is required for this career?</b></span></p>' +
+'<p style="text-align: justify;"><span style="font-size:12px;">A bachelor&#39;s degree is sufficient to become a marketing consultant. Real world experience in the field of marketing will be needed prior to applying for this position.</span></p>' +
+'<p><span style="font-size:14px;"><strong>What additional skills/experience are needed for this position?</strong></span></p>' +
+'<p style="text-align: justify;"><span style="font-size:12px;">A marketing consultant is not an entry level job, years of marketing experience and knowledge are necessary. One needs to be able to have seen a variety of issues in various companies, and this only comes with experience. As well, one needs to be able to understand marketing needs of clients from a variety of different industries. The most sucessful marketing consultants have creative promotion ideas, as well as knowledge of the latest/most effective marketing technologies</span></p>' +
+'<p><span style="font-size:14px;"><strong>&nbsp;What is the average salary for this career? &nbsp;&nbsp;</strong></span></p>' +
+'<p><span style="font-size:12px;">Average starting salaries in Canada range anywhere from $34,070 to $40, 847, depending on location</span></p>' +
+'<p>&nbsp;</p><p><span style="font-size:11px;">Info taken from:</span></p>' +
+'<p><span style="font-size:11px;"><strong><a href="http://www.theguardian.com/careers/careers-blog/marketing-consultant">http://www.theguardian.com/careers/careers-blog/marketing-consultant</a></strong></span></p>' +
+'<p><span style="font-size:11px;"><strong><a href="http://money.cnn.com/pf/best-jobs/2012/snapshots/2.html">http://money.cnn.com/pf/best-jobs/2012/snapshots/2.html</a></strong></span></p>' +
+'<p><span style="font-size:11px;"><strong><a href="http://talentegg.ca/incubator/2014/09/28/average-starting-salaries-consulting-edition-2014/">http://talentegg.ca/incubator/2014/09/28/average-starting-salaries-consulting-edition-2014/</a></strong></span><strong></strong></p>' 
+
+                },
+                children: []
+            }]
+            }, {
+                id: "k14681_181",
+                name: "Management",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1706_691",
+                name: "Investment Banking Analyst",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
                 children: []
+            }]
+            }, {
+                id: "k14581_180",
+                name: "Strategy",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1706_692",
+                name: "Investment Banking Analyst",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }]
             }]
         }		],
         data: { 
