@@ -35,11 +35,11 @@ function init(){
             id: "k306208_1",
             name: "Law",
             data: {
-               relation: '<p><span style="font-size:14px;"><strong>Education: </strong></span></p>' +
+               relation: '<p><span style="font-size:14px;"><strong>What further education is needed for a career in this field? </strong></span></p>' +
 '<ul><li><span style="font-size:12px;">Law School after Bachelor&rsquo;s degree, which requires passing the LSAT</span></li>' +
 '<li><span style="font-size:12px;">Pass Provincial Bar exam after Law degree in order to practice law in a specific province/territory</span></li>' +
 '<li><span style="font-size:12px;">Articling: working under supervision of licensed and qualified lawyer for 10 months, before being licensed to practice law</span></li></ul>' +
-'<p><span style="font-size:14px;"><strong>Experience:</strong></span></p>' +
+'<p><span style="font-size:14px;"><strong>What skills/experience will be useful to have?</strong></span></p>' +
 '<ul><li><span style="font-size:12px;">Reading, Speaking and Argumentation Skills should be developed when doing undergrad</span></li></ul>' +
 '<p><strong><span style="font-size:14px;">Potential Careers:</span></strong></p><ul>' +
 '<li><span style="font-size:12px;">Lawyer</span></li></ul>'
@@ -119,19 +119,61 @@ function init(){
 '<li><span style="font-size:12px;">In Canada, students wishing to experience firsthand a career in government can apply for the Federal Student Work Experience Program (FSWEP)</span></li></ul>'
             },
             children: [{
+                id: "a14581_123",
+                name: "Federal Bank",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1756_618",
+                name: "Job",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }]
+            }, {
+                id: "a14581_102",
+                name: "Non-Profit",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1756_625",
+                name: "Job",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }]
+            }, {
+                id: "a14581_121",
+                name: "Foreign Affairs and International Relations",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
                 id: "a50188_8",
                 name: "Foreign Services Officer",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
                 children: []
+            }]
             }, {
-                id: "a65452_9",
-                name: "Job 2",
+                id: "a14581_147",
+                name: "Intelligence Agency",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1756_699",
+                name: "Job",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
                 children: []
+            }]
             }]
         }, {
             id: "a41529_12",
@@ -343,9 +385,22 @@ function init(){
                 },
                 children: [{
                 id: "a1706_691",
-                name: "Investment Banking Analyst",
+                name: "Management Consultant",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size:14px;"><strong>Job Description: </strong></span><span style="font-size:12px;">Management consultants help companies improve their efficiency, by providing management and operations recommendations. All types of organizations, such as corporate, non-profits and governments employ management consultants.</span></p>' +
+'<p><span style="font-size:14px;"><strong style="font-size: 14px;">What additional skills/experience will be useful to have?</strong></span></p><p>&nbsp;</p>' +
+'<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:12px;">Being an expert in a certain industry or field is not necessary for consulting, one just needs to be excellent at coming up with creative solutions to help companies better their performance</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Numeracy skills are crucial &ndash; one should be good with numbers, mental math and statistical analysis, however a degree in a mathematics related background is not necessary</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to think ina logical and structured way, while also being open to new knowledge and interpretations</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent communication and interpersonal skills, as one will have to get along well with individuals both internally, and on the client side</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analytical, problem-solving and quantitative skills</span></p>' +
+'<p><span style="font-size:14px;"><strong>What is the average salary for this career?</strong></span></p>' +
+'<p><span style="font-size:12px;">The average salary for a management consultant in Canada in 2015 is $78, 340.</span></p>' +
+'<p>&nbsp;</p>' +
+'<p><span style="font-size:11px;">Info taken from:</span></p>' +
+'<p><span style="font-size:11px;"><a href="http://www.careers.ox.ac.uk/management-consultancy/">http://www.careers.ox.ac.uk/management-consultancy/</a></span></p>' +
+'<p><span style="font-size:11px;"><a href="http://www.payscale.com/research/CA/Job=Management_Consultant/Salary">http://www.payscale.com/research/CA/Job=Management_Consultant/Salary</a></span></p>' 
+
                 },
                 children: []
             }]
@@ -357,6 +412,34 @@ function init(){
                 },
                 children: [{
                 id: "a1706_692",
+                name: "Investment Banking Analyst",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }]
+            }, {
+                id: "k14581_125",
+                name: "Technology/IT",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1706_671",
+                name: "Investment Banking Analyst",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }]
+            }, {
+                id: "k14581_129",
+                name: "HR",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: [{
+                id: "a1706_675",
                 name: "Investment Banking Analyst",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
@@ -375,7 +458,7 @@ function init(){
     var rgraph = new $jit.RGraph({
         //Where to append the visualization
         injectInto: 'infovis',
-		levelDistance: 140,
+		levelDistance: 175,
         //Optional: create a background canvas that plots
         //concentric circles.
         background: {
@@ -397,7 +480,7 @@ function init(){
         
         Edge: {
           color: '#666666',
-          lineWidth:3.5
+          lineWidth:2.5
         },
 
         onBeforeCompute: function(node){
