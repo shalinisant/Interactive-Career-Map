@@ -442,7 +442,7 @@ function init(){
                 id: "a1706_675",
                 name: "HR Consultant",
                 data: {
-                    relation: '<p><span style="font-size:14px;"><strong>Job Description: </strong></span><span style="font-size:12px;">HR consultants evaluate and implement strategies to aid businesses with their human resources and labour relations policies.</span></p>' +
+                    relation: '<p><span style="font-size:14px;"><strong>Job description: </strong></span><span style="font-size:12px;">HR consultants evaluate and implement strategies to aid businesses with their human resources and labour relations policies.</span></p>' +
 '<p><span style="font-size:14px;"><strong>Education:</strong></span> <span style="font-size:12px;">Generally, a degree in an area related to personnel management, such as business administration, commerce or psychology is required. However, completion of a professional development program in personnel administration may be considered as well.</span></p>' +
 '<p><span style="font-size:14px;"><strong>Required Skills/Experience:</strong></span></p>' +
 '<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:12px;">Business accounting</span></p>' +
