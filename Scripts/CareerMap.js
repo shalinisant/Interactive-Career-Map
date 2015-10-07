@@ -209,7 +209,14 @@ function init(){
                 },
                 children: [{
                 id: "a1756_69",
-                name: "Investment Banking Analyst",
+                name: "Advisory",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }, {
+                id: "a1756_69",
+                name: "Transactional",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -223,7 +230,7 @@ function init(){
                 },
                 children: [{
                 id: "a1726_69",
-                name: "Investment Banking Analyst",
+                name: "Operations",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -237,7 +244,14 @@ function init(){
                 },
                 children: [{
                 id: "a1706_69",
-                name: "Investment Banking Analyst",
+                name: "Compliance",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }, {
+                id: "a1366_69",
+                name: "Risk Management",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -286,31 +300,7 @@ function init(){
                 },
                 children: []
             }]
-        }, {
-            id: "a236585_30",
-            name: "Research",
-            data: {
-                relation: '<p><strong><span style="font-size:14px;">What further education is required for a career in this field?</span></strong></p>' +
-'<p>&nbsp;</p>' +
-'<p><span style="font-size:12px;">A master&rsquo;s degree used to be an asset for careers in this field, but is now required for many positions with high levels of responsibility.</span></p>'
-            },
-            children: [{
-                id: "a1111_31",
-                name: "Economic Policy Analyst",
-                data: {
-                    relation: '<p><span style="font-size: 14px;"><p><span style="font-size:14px;"><strong>Job Description: </strong></span><span style="font-size:12px;">Economic Policy Analysts conduct research, and develop models to help explain economic trends and pattern. They use this information to advise on a variety of matters, including finance, fiscal and monetary policy, international trade and industrial markets.</span></p>' +
-'<p><span style="font-size:14px;"><strong>Education:</strong> </span><span style="font-size:12px;">A master&rsquo;s degree with at least a concentration in economics will be required for positions with high responsibility.&nbsp;</span></p></span></p>'
-                },
-                children: []
-            }, {
-                id: "a1756_32",
-                name: "Job 2",
-                data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
-                },
-                children: []
-            }]
-        }, {
+        },  {
             id: "a236594_38",
             name: "Academia",
             data: {
@@ -320,13 +310,16 @@ function init(){
                 id: "c14581_136",
                 name: "Research",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><strong><span style="font-size:14px;">What further education is required for a career in this field?</span></strong></p>' +
+'<p>&nbsp;</p>' +
+'<p><span style="font-size:12px;">A master&rsquo;s degree used to be an asset for careers in this field, but is now required for many positions with high levels of responsibility.</span></p>'
                 },
                 children: [{
-                id: "a1706_198",
-                name: "Investment Banking Analyst",
+                id: "a1111_31",
+                name: "Economic Policy Analyst",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size: 14px;"><p><span style="font-size:14px;"><strong>Job Description: </strong></span><span style="font-size:12px;">Economic Policy Analysts conduct research, and develop models to help explain economic trends and pattern. They use this information to advise on a variety of matters, including finance, fiscal and monetary policy, international trade and industrial markets.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Education:</strong> </span><span style="font-size:12px;">A master&rsquo;s degree with at least a concentration in economics will be required for positions with high responsibility.&nbsp;</span></p></span></p>'
                 },
                 children: []
             }]
@@ -412,7 +405,7 @@ function init(){
                 },
                 children: [{
                 id: "a1706_692",
-                name: "Investment Banking Analyst",
+                name: "Strategy Consultant",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -426,9 +419,16 @@ function init(){
                 },
                 children: [{
                 id: "a1706_671",
-                name: "Investment Banking Analyst",
+                name: "IT Consultant",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size:14px;"><strong>Job Description:</strong> </span><span style="font-size:12px;">IT Consultants analyze, and provide solutions regarding the communication and software systems of an organization. Depending on the size and ability of the organization, consultants involvement in the organization can vary anywhere from installing and maintaining the system as needed, to solely providing solutions to technological issues.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Required Skills/Experience:</strong></span></p>' +
+'<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:12px;">Need to have prior knowledge/interest in information technology</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consultants with several years of industry experience are generally preferred by employers</span></p>' +
+'<p><span style="font-size:14px;"><strong>Salary: </strong></span><span style="font-size:12px;">The average salary for an IT Consultant is $66,414/year.</span></p>' +
+'<p><span style="font-size:11px;">Info taken from:</span></p>' +
+'<p><span style="font-size:11px;"><a href="http://study.com/articles/IT_Business_Consultant_Job_Description_and_Education_Requirements.html">http://study.com/articles/IT_Business_Consultant_Job_Description_and_Education_Requirements.html</a></span></p>' +
+'<p><span style="font-size:11px;"><a href="http://www.payscale.com/research/CA/Job=Information_Technology_(IT)_Consultant/Salary">http://www.payscale.com/research/CA/Job=Information_Technology_(IT)_Consultant/Salary</a></span></p>'
                 },
                 children: []
             }]
@@ -440,9 +440,18 @@ function init(){
                 },
                 children: [{
                 id: "a1706_675",
-                name: "Investment Banking Analyst",
+                name: "HR Consultant",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size:14px;"><strong>Job Description: </strong></span><span style="font-size:12px;">HR consultants evaluate and implement strategies to aid businesses with their human resources and labour relations policies.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Education:</strong></span> <span style="font-size:12px;">Generally, a degree in an area related to personnel management, such as business administration, commerce or psychology is required. However, completion of a professional development program in personnel administration may be considered as well.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Required Skills/Experience:</strong></span></p>' +
+'<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:12px;">Business accounting</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Executive hiring</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Knowledge of human resource software</span></p>' +
+'<p><span style="font-size:14px;"><strong>Salary:</strong></span></p>' +
+'<p><span style="font-size:11px;">Info taken from:</span></p>' +
+'<p><span style="font-size:11px;"><a href="http://www.servicecanada.gc.ca/eng/qc/job_futures/statistics/1121.shtml">http://www.servicecanada.gc.ca/eng/qc/job_futures/statistics/1121.shtml</a></span></p>' +
+'<p><span style="font-size:11px;"><a href="http://work.chron.com/careers-hr-consulting-2948.html">http://work.chron.com/careers-hr-consulting-2948.html</a></span></p>'
                 },
                 children: []
             }]
