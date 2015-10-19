@@ -343,7 +343,14 @@ function init(){
             id: "a236194_38",
             name: "Consulting",
             data: {
-                relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                relation: '<p><span style="font-size:14px;"><strong>Education Requirements: </strong></span>Specific knowledge in the intended area of consulting, in addition to a bachelor&rsquo;s degree, is necessary for a successful career in this field.</p>' +
+'<p><span style="font-size:14px;"><strong>Skills/Experience:</strong></span></p>' +
+'<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to view &ldquo;big picture&rdquo; of organization, and see how all parts fit together</p>' +
+'<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent interpersonal skills, ability to relate to people from all levels of organization</p>' +
+'<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Effective communication is a key aspect of any consulting job, as you will be making connections very often, and will work with a variety of different people</p>' +
+'<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One needs to be flexible, and able to adapt to various situations with ease</p>' +
+'<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidence to stand up for what you believe in, and grace to admit when you may be wrong</p>' +
+'<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to synthesize large amounts of information in a short period of time</p>'
             },
             children: [{
                 id: "k24581_135",
@@ -407,7 +414,17 @@ function init(){
                 id: "a1706_692",
                 name: "Strategy Consultant",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size:14px;"><strong> Job Description: </strong></span><span style="font-size:12px;"> Strategy consultants help companies evaluate and improve business strategies and operations. In particular, they aim to help a company differentiate itself from the competition.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Required Skills/Experience:</strong></span></p>' +
+'<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:12px;">&nbsp;&nbsp; Experience with strategy consulting, or consulting in general, in addition to an undergraduate degree is generally required</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong analytical abilities</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Industry-specific expertise</span></p>' +
+'<p><span style="font-size:14px;"><strong>Salary: </strong></span><span style="font-size:12px;">The average salary for a strategy consultant ranges anywhere from 59 000 to 160 000.</span></p>' +
+'<p><span style="font-size:11px;">Info taken from:</span></p>' +
+'<p><span style="font-size:11px;"><a href="https://www.glassdoor.ca/Salaries/strategy-consultant-salary-SRCH_KO0,19.htm">https://www.glassdoor.ca/Salaries/strategy-consultant-salary-SRCH_KO0,19.htm</a></span></p>' +
+'<p><span style="font-size:11px;"><a href="http://www.bain.com/offices/brussels/en_us/careers/top-management-consulting.aspx">http://www.bain.com/offices/brussels/en_us/careers/top-management-consulting.aspx</a></span></p>' +
+'<p><span style="font-size:11px;"><a href="http://www.caseinterview.com/strategy-consulting">http://www.caseinterview.com/strategy-consulting</a></span><strong></strong></p>'
+
                 },
                 children: []
             }]
@@ -442,16 +459,21 @@ function init(){
                 id: "a1706_675",
                 name: "HR Consultant",
                 data: {
-                    relation: '<p><span style="font-size:14px;"><strong>Job description: </strong></span><span style="font-size:12px;">HR consultants evaluate and implement strategies to aid businesses with their human resources and labour relations policies.</span></p>' +
-'<p><span style="font-size:14px;"><strong>Education:</strong></span> <span style="font-size:12px;">Generally, a degree in an area related to personnel management, such as business administration, commerce or psychology is required. However, completion of a professional development program in personnel administration may be considered as well.</span></p>' +
+                    relation: '<p><span style="font-size:14px;"><strong>Job Description: </strong></span><span style="font-size:12px;">HR consultants evaluate and implement strategies to aid businesses with their human resources and labour relations policies.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Education:</strong></span> <span style="font-size:12px;">Generally, a degree in an area related to personnel management, such as business administration, commerce or psychology is required. However, completion of a professional development program in personnel administration may be considered as well.The Certified Human Resources Professional is one such designation.</span></p>' +
 '<p><span style="font-size:14px;"><strong>Required Skills/Experience:</strong></span></p>' +
+'<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:12px;">Requirements vary greatly depending on the company, but many positions in Canada require one to be bilingual</span></p>' +
 '<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:12px;">Business accounting</span></p>' +
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Executive hiring</span></p>' +
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Knowledge of human resource software</span></p>' +
-'<p><span style="font-size:14px;"><strong>Salary:</strong></span></p>' +
+'<p>&nbsp;</p><p><span style="font-size:14px;"><strong>Salary:&nbsp;</strong></span>Currently, the median salary for an HR consultant is $63,195.</p>' +
 '<p><span style="font-size:11px;">Info taken from:</span></p>' +
 '<p><span style="font-size:11px;"><a href="http://www.servicecanada.gc.ca/eng/qc/job_futures/statistics/1121.shtml">http://www.servicecanada.gc.ca/eng/qc/job_futures/statistics/1121.shtml</a></span></p>' +
-'<p><span style="font-size:11px;"><a href="http://work.chron.com/careers-hr-consulting-2948.html">http://work.chron.com/careers-hr-consulting-2948.html</a></span></p>'
+'<p><span style="font-size:11px;"><a href="http://work.chron.com/careers-hr-consulting-2948.html">http://work.chron.com/careers-hr-consulting-2948.html</a></span></p>' +
+'<p><span style="font-size:11px;"><a href="https://ca.linkedin.com/jobs2/view/82512840?trk=jserp_job_details_text">https://ca.linkedin.com/jobs2/view/82512840?trk=jserp_job_details_text</a></span></p>' +
+'<p><span style="font-size:11px;"><a href="http://www.payscale.com/research/CA/Job=Consultant,_Human_Resources_(HR)/Salary">http://www.payscale.com/research/CA/Job=Consultant,_Human_Resources_(HR)/Salary</a></span></p>'
+
+
                 },
                 children: []
             }]
