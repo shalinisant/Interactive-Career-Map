@@ -350,7 +350,7 @@ function init(){
 '<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Effective communication is a key aspect of any consulting job, as you will be making connections very often, and will work with a variety of different people</p>' +
 '<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One needs to be flexible, and able to adapt to various situations with ease</p>' +
 '<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidence to stand up for what you believe in, and grace to admit when you may be wrong</p>' +
-'<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to synthesize large amounts of information in a short period of time</p>'
+'<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abilities to synthesize large amounts of information in a short period of time</p>'
             },
             children: [{
                 id: "k24581_135",
