@@ -287,7 +287,7 @@ function init(){
             },
             children: [{
                 id: "a1744_24",
-                name: "Job 1",
+                name: "Economist",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -343,7 +343,8 @@ function init(){
             id: "a236194_38",
             name: "Consulting",
             data: {
-                relation: '<p><span style="font-size:14px;"><strong>Education Requirements: </strong></span>Specific knowledge in the intended area of consulting, in addition to a bachelor&rsquo;s degree, is necessary for a successful career in this field.</p>' +
+                relation: '<p><span style="font-size:12px;">Economic consultants analyze any type of economic or financial issues a company may have, and provide solutions to these issues. Most start out as analysts at consulting firms, and work their way up to positions such as senior economist, or even partner, as they gain more experience and or/education.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Education Requirements: </strong></span>Specific knowledge in the intended area of consulting, in addition to a bachelor&rsquo;s degree, is necessary for a successful career in this field.</p>' +
 '<p><span style="font-size:14px;"><strong>Skills/Experience:</strong></span></p>' +
 '<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to view &ldquo;big picture&rdquo; of organization, and see how all parts fit together</p>' +
 '<p style="margin-left:36.0pt;">●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent interpersonal skills, ability to relate to people from all levels of organization</p>' +
