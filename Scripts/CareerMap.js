@@ -79,7 +79,7 @@ function init(){
             id: "c107877_3",
             name: "International Trade",
             data: {
-                relation: '<p><span style="font-size:14px;"><strong>What further education is required for a career in this field? aa</strong></span></p>' +
+                relation: '<p><span style="font-size:14px;"><strong>What further education is required for a career in this field? </strong></span></p>' +
 '<p><span style="font-size:12px;">Depending on the specific job, a Master&#39;s degree may or may not be required.</span></p>' +
 '<p><span style="font-size:14px;"><strong style="font-size: 14px;">What additional experiences/skills will be useful to have?</strong></span></p>' +
 '<p><span style="font-size:12px;">Curiosity for other countries and cultures, as well as a strong sense of integrity are needed to be successful in this industry.</span></p>'
