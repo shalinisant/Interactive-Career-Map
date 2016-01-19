@@ -273,7 +273,7 @@ function init(){
                 children: []
             }, {
                 id: "a72007_20",
-                name: "Job 2",
+                name: "Business Development Specialist",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
