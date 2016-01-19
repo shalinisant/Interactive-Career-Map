@@ -46,7 +46,7 @@ function init(){
 			},
             children: [{
                 id: "a84_2",
-                name: "Lawyer",
+                name: "Attorney",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
@@ -274,6 +274,14 @@ function init(){
             }, {
                 id: "a72007_20",
                 name: "Business Development Specialist",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
+            }
+             {
+                id: "a72067_20",
+                name: "Urban/Regional Planner",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
