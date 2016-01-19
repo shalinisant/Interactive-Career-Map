@@ -278,13 +278,6 @@ function init(){
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
                 children: []
-            }, {
-                id: "a72067_20",
-                name: "Urban/Regional Planner",
-                data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
-                },
-                children: []
             }]
         }, {
             id: "a236583_23",
