@@ -82,7 +82,15 @@ function init(){
                 relation: '<p><span style="font-size:14px;"><strong>What further education is required for a career in this field? </strong></span></p>' +
 '<p><span style="font-size:12px;">Depending on the specific job, a Master&#39;s degree may or may not be required.</span></p>' +
 '<p><span style="font-size:14px;"><strong style="font-size: 14px;">What additional experiences/skills will be useful to have?</strong></span></p>' +
-'<p><span style="font-size:12px;">Curiosity for other countries and cultures, as well as a strong sense of integrity are needed to be successful in this industry.</span></p>'
+'<p><span style="font-size:12px;">Curiosity for other countries and cultures, as well as a strong sense of integrity are needed to be successful in this industry.</span></p>' +
+'<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:12px;"> A strong sense of integrity</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Focused on client service &ndash; bringing economic prosperity and growth to Canada, and the Canadian business community is a primary goal of this industry</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flexible and adaptable &ndash; work will be in challenging situations often, one needs to be able to adapt to the changing needs of the position</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent communicators &ndash; representatives of Canada, need to use effective methods to convey ideas</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Network and alliance builders &ndash; need to grow your own network, and help Canadian businesses have access to the right connections</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to just show sound judgement &ndash; work will involve identifying crucial issues, and coming up with logical solutions. Decisions made after analyzing complex situations can have significant impact on the country</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Natural team players &ndash; need to utilize strengths of colleagues and partners</span></p>' +
+'<p><span style="font-size:12px;">Info taken from: <a href="http://www.international.gc.ca/jobs-emplois/trade-commerce.aspx?lang=eng">http://www.international.gc.ca/jobs-emplois/trade-commerce.aspx?lang=eng</a></span></p>
             },
             children: [{
                 id: "a964_4",
