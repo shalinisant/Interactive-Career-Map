@@ -90,7 +90,7 @@ function init(){
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Network and alliance builders &ndash; need to grow your own network, and help Canadian businesses have access to the right connections</span></p>' +
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to just show sound judgement &ndash; work will involve identifying crucial issues, and coming up with logical solutions. Decisions made after analyzing complex situations can have significant impact on the country</span></p>' +
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Natural team players &ndash; need to utilize strengths of colleagues and partners</span></p>' +
-'<p><span style="font-size:12px;">Info taken from: <a href="http://www.international.gc.ca/jobs-emplois/trade-commerce.aspx?lang=eng">http://www.international.gc.ca/jobs-emplois/trade-commerce.aspx?lang=eng</a></span></p>
+'<p><span style="font-size:12px;">Info taken from: <a href="http://www.international.gc.ca/jobs-emplois/trade-commerce.aspx?lang=eng">http://www.international.gc.ca/jobs-emplois/trade-commerce.aspx?lang=eng</a></span></p>'
             },
             children: [{
                 id: "a964_4",
