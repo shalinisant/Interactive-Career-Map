@@ -136,7 +136,14 @@ function init(){
                 id: "a1756_618",
                 name: "Policy Advisor",
                 data: {
-                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                    relation: '<p><span style="font-size:14px;"><strong>Education: </strong></span><span style="font-size:12px;">A Master&rsquo;s degree or PhD in Economics is needed. More years of experience will be needed with just a Master&rsquo;s degree.</span></p>' +
+'<p><span style="font-size:14px;"><strong>Experience: </strong></span></p>' +
+'<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:12px;">Bilingualism is necessary, however training can be provided in some cases if proficiency in the second language has not yet been reached</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong writing and presentation skills</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong interpersonal skills</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analytical, as well as technical skills will be necessary, as you will need to analyze elaborate economic and financial information</span></p>' +
+'<p><span style="font-size:14px;"><strong>Salary:</strong></span> <span style="font-size:12px;">Starting salaries range from $132,000 to $165,000.</span></p>' +
+'<p>Info taken from: <a href="http://clients.njoyn.com/CL2/XWEB/Xweb.asp?tbtoken=YlFbQRNbDVB0Y3EFRlNcEU88AxItaVVeLiUuQC4kXl1MWlx9B3lfWTFuUEYaB2BzcUAYGhNSS3liF3U%3D&amp;chk=dFlbQBJR&amp;CLID=60296&amp;PAGE=JOBDETAILS&amp;JOBID=J0915-0123&amp;BRID=109984&amp;UTM_SOURCE=NJOYN&amp;UTM_MEDIUM=RSS&amp;UTM_CAMPAIGN=PCANDIDATES&amp;LANG=1">http://clients.njoyn.com/CL2/XWEB/Xweb.asp?tbtoken=YlFbQRNbDVB0Y3EFRlNcEU88AxItaVVeLiUuQC4kXl1MWlx9B3lfWTFuUEYaB2BzcUAYGhNSS3liF3U%3D&amp;chk=dFlbQBJR&amp;CLID=60296&amp;PAGE=JOBDETAILS&amp;JOBID=J0915-0123&amp;BRID=109984&amp;UTM_SOURCE=NJOYN&amp;UTM_MEDIUM=RSS&amp;UTM_CAMPAIGN=PCANDIDATES&amp;LANG=1</a></p>'
                 },
                 children: []
             }]
