@@ -184,6 +184,7 @@ function init(){
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You will have to work both independently, on tasks such as conducting research, as well as part of a team, developing networks</span></p>' +
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience travelling domestically and/or internationally is not necessary, but is good to have</span></p>' +
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Knowledge of a foreign language is also a plus point</span></p>' +
+'<p><span style="font-size:14px;"><strong>Salary:&nbsp;</strong></span>The starting salary is about $65,000.</p>' +
 '<p><span style="font-size:12px;">Info taken from: <a href="https://csiscareers.ca/en/jobs/intelligence-officer">https://csiscareers.ca/en/jobs/intelligence-officer</a></span></p>' +
 '<p>&nbsp;</p><p>&nbsp;</p>'
                 },
