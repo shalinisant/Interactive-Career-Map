@@ -1155,3 +1155,49 @@
 	position:relative;
 	top:1px;
 }
+
+#a1756_618{
+	background-color:#0000FF;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	border:1px solid #0000FF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:10px 1px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+}
+#a1756_618:hover {
+	background-color:#2525B8;
+}
+#a1756_618:active {
+	position:relative;
+	top:1px;
+}
+
+#a1756_699{
+	background-color:#0000FF;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	border:1px solid #0000FF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:10px 1px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+}
+#a1756_699:hover {
+	background-color:#2525B8;
+}
+#a1756_699:active {
+	position:relative;
+	top:1px;
+}
