@@ -176,7 +176,7 @@ function init(){
                 },
                 children: [{
                 id: "a1756_699",
-                name: "Job",
+                name: "Intelligence Officer",
                 data: {
                     relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
                 },
