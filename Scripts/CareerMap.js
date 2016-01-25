@@ -422,7 +422,7 @@ function init(){
 '<p><span style="font-size:14px;"><strong style="font-size: 14px;">What additional skills/experience will be useful to have?</strong></span></p><p>&nbsp;</p>' +
 '<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:12px;">Being an expert in a certain industry or field is not necessary for consulting, one just needs to be excellent at coming up with creative solutions to help companies better their performance</span></p>' +
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Numeracy skills are crucial &ndash; one should be good with numbers, mental math and statistical analysis, however a degree in a mathematics related background is not necessary</span></p>' +
-'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to think ina logical and structured way, while also being open to new knowledge and interpretations</span></p>' +
+'<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to think in a logical and structured way, while also being open to new knowledge and interpretations</span></p>' +
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent communication and interpersonal skills, as one will have to get along well with individuals both internally, and on the client side</span></p>' +
 '<p><span style="font-size:12px;">&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analytical, problem-solving and quantitative skills</span></p>' +
 '<p><span style="font-size:14px;"><strong>What is the average salary for this career?</strong></span></p>' +
