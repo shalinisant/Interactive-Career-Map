@@ -146,6 +146,14 @@ function init(){
 '<p>Info taken from: <a href="http://clients.njoyn.com/CL2/XWEB/Xweb.asp?tbtoken=YlFbQRNbDVB0Y3EFRlNcEU88AxItaVVeLiUuQC4kXl1MWlx9B3lfWTFuUEYaB2BzcUAYGhNSS3liF3U%3D&amp;chk=dFlbQBJR&amp;CLID=60296&amp;PAGE=JOBDETAILS&amp;JOBID=J0915-0123&amp;BRID=109984&amp;UTM_SOURCE=NJOYN&amp;UTM_MEDIUM=RSS&amp;UTM_CAMPAIGN=PCANDIDATES&amp;LANG=1">http://clients.njoyn.com/CL2/XWEB/Xweb.asp?tbtoken=YlFbQRNbDVB0Y3EFRlNcEU88AxItaVVeLiUuQC4kXl1MWlx9B3lfWTFuUEYaB2BzcUAYGhNSS3liF3U%3D&amp;chk=dFlbQBJR&amp;CLID=60296&amp;PAGE=JOBDETAILS&amp;JOBID=J0915-0123&amp;BRID=109984&amp;UTM_SOURCE=NJOYN&amp;UTM_MEDIUM=RSS&amp;UTM_CAMPAIGN=PCANDIDATES&amp;LANG=1</a></p>'
                 },
                 children: []
+            },
+            {
+                id: "a1716_625",
+                name: "Analyst",
+                data: {
+                    relation: '<p><span style="font-size: 14px;">Still need to research</span></p>'
+                },
+                children: []
             }]
             }, {
                 id: "a14581_102",
